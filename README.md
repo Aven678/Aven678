@@ -1,6 +1,6 @@
 # Salut toi !
 
-Bienvenue sur ma page 👋 ! Je m'appelle Aven, étudiant, et j'aime bien m'amuser sur différents projets.
+Bienvenue sur ma page 👋 ! Je suis Aven, étudiant, et j'aime bien m'amuser sur différents projets.
 
 ### *Vous voulez vraiment des stats ?* Voici :)
 
