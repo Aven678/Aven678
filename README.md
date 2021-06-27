@@ -16,6 +16,9 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 * [Jenkins](https://jenkins.justaven.xyz)
 * [XBackBone](https://screen.justaven.xyz)
 
+### Spotify 🎧
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tne2p391pldzo5pfivtii2ubx)](https://open.spotify.com/user/tne2p391pldzo5pfivtii2ubx)
+
 #### Contact :
 * Mail : [contact@justaven.xyz](mailto:contact@justaven.xyz)
 * Discord : [Aven#1000](https://discord.justaven.xyz)
