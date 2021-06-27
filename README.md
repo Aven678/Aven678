@@ -1,16 +1,21 @@
-### Hi there 👋
+# Salut toi !
 
-<!--
-**Aven678/Aven678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur ma page 👋 ! Je m'appelle Aven, étudiant, et j'aime bien m'amuser sur différents projets.
 
-Here are some ideas to get you started:
+### *Vous voulez vraiment des stats ?* Voici :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Aven678&count_private=true&show_icons=true)]()
+
+#### Mon projet :
+* [AvenBot](https://wwww.justaven.xyz)
+
+### Les solutions que j'utilise au quotidien :
+* [Gitea](https://git.justaven.xyz)
+* [Jenkins](https://jenkins.justaven.xyz)
+* [XBackBone](https://screen.justaven.xyz)
+
+### Contact :
+* Mail : [contact@justaven.xyz](mailto:contact@justaven.xyz)
+* Discord : [Aven#1000](https://discord.justaven.xyz)
+* Twitter : [_Aven678](https://twitter.com/_Aven678)
+
