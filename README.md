@@ -7,7 +7,7 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Aven678&count_private=true&show_icons=true)]()
 
 #### Mon projet :
-* [AvenBot](https://wwww.justaven.xyz)
+* [AvenBot](https://www.justaven.xyz)
 
 #### Ma clé GPG : B22BF10E759A205C
 
