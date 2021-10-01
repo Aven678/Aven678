@@ -20,7 +20,7 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tne2p391pldzo5pfivtii2ubx)
 
 #### Contact :
-* Mail : [contact@justaven.xyz](mailto:contact@justaven.xyz)
+* Mail : [contact@justaven.xyz](mailto:matthieu@justaven.xyz)
 * Discord : [Aven#1000](https://discord.justaven.xyz)
 * Twitter : [_Aven678](https://twitter.com/_Aven678)
 
