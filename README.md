@@ -13,7 +13,6 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 
 #### Les solutions que j'utilise au quotidien :
 * [Gitea](https://git.justaven.xyz)
-* [Jenkins](https://jenkins.justaven.xyz)
 * [XBackBone](https://screen.justaven.xyz)
 
 ### Spotify 🎧
