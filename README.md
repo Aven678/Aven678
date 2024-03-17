@@ -20,6 +20,6 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 
 #### Contact :
 * Mail : [matthieu@justaven.xyz](mailto:matthieu@justaven.xyz)
-* Discord : [Aven#1000](https://discord.justaven.xyz)
+* Discord : [@av.en](https://discord.justaven.xyz)
 * Twitter : [_Aven678](https://twitter.com/_Aven678)
 
