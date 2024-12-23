@@ -12,7 +12,7 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 #### Ma clé GPG : B22BF10E759A205C
 
 #### Les solutions que j'utilise au quotidien (plus à jour) :
-* [Gitea](https://git.justaven.xyz)
+* [GitLab](https://gitlab.matthieuve.fr)
 * [XBackBone](https://screen.justaven.xyz)
 
 ### Spotify 🎧
