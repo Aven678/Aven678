@@ -5,7 +5,8 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 #### *Vous voulez vraiment des stats ?* Voici :)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Aven678&count_private=true&show_icons=true)]()
-J'utilise principalement mon serveur GitLab pour la plupart de mes projets.
+
+*J'utilise principalement mon serveur GitLab pour la plupart de mes projets.*
 
 #### Mon projet :
 * [AvenBot](https://www.justaven.xyz)
