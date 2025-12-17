@@ -19,8 +19,8 @@ Bienvenue sur ma page 👋 ! Je suis Aven, je suis étudiant, et j'aime bien m'a
 * VaultWarden
 * et plein d'autres...
 
-### Spotify 🎧
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tne2p391pldzo5pfivtii2ubx)
+### Musique maestro ! 🎧
+Ma page [Last.fm](https://www.last.fm/user/Aven678)
 
 #### Contact :
 * Mail : [matthieu@justaven.xyz](mailto:matthieu@justaven.xyz)
